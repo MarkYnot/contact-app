@@ -1,0 +1,1 @@
+.App{font-family:'Arial', sans-serif;padding:20px}.contact{border:1px solid #ddd;padding:10px;margin:10px 0;display:flex;justify-content:space-between}@media (max-width: 600px){.contact{flex-direction:column}}
